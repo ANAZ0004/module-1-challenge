@@ -1,4 +1,8 @@
 # Code Refactor Starter Code
+
+Adjusting the Horiseon Home Page to adhere to professional accessibility standards;
+so that the page is optimised for search engines.
+
 User Story: 
 
 AS A marketing agency
