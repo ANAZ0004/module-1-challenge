@@ -1,6 +1,7 @@
 # Horiseon Home Page
 
 Horiseon
+
 Web Accessibility Done Right
 
 ![image](https://github.com/ANAZ0004/module-1-challenge/assets/111034901/f8820a66-e72b-414a-9f6b-4f44cc180506)
