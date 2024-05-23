@@ -1,4 +1,13 @@
-# Code Refactor Starter Code
+# Horiseon Home Page
+
+Horiseon
+Web Accessibility Done Right
+
+![image](https://github.com/ANAZ0004/module-1-challenge/assets/111034901/f8820a66-e72b-414a-9f6b-4f44cc180506)
+Horiseon Home Page accessible at: https://anaz0004.github.io/module-1-challenge/
+
+
+This project consists of:
 
 Adjusting the Horiseon Home Page to adhere to professional accessibility standards;
 so that the page is optimised for search engines.
